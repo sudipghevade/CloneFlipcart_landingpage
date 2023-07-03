@@ -1,0 +1,106 @@
+
+
+
+
+.blue{
+    background-color: #2370f4;
+    height: 10vh;
+}
+.inputfield{
+    margin-left: 255px;
+}
+.one{
+    display: flex;
+    justify-content: space-around;
+}
+button{
+    margin-left: 290px !important;
+    color: #2874f0;
+    border-radius: 2px;
+    padding: 5px 40px;
+    border: 1px solid #2874f0;
+    font-weight: 500;
+    border-radius: 2px;
+    
+}
+.middle img{
+    height: 10vh;
+}
+span{
+    margin-left: 5px;
+   font-size: 15px;
+   display: inline-block;
+
+}
+/* .one1{
+ margin-right: 400px;   
+}
+.two{
+    margin-right: 100px;   
+   } */
+.right{
+    display: flex;
+    justify-content:space-evenly;
+}
+span{
+    margin-right: 70px;
+    letter-spacing: 1px;
+    font-weight: 500;
+    font-size: 15px;
+    color: white;
+
+}
+
+
+.middle{
+    display: flex;
+    justify-content: space-around;
+}
+.carousel-inner img{
+    width: inherit;
+    height: 25vh;
+}
+
+
+
+
+
+
+
+
+ .middle4 .container .row .col-md-3 .card img{
+    height: 50vh !important;
+
+}
+
+span p{
+    color: black;
+}
+
+.middle5{
+    margin-top: 15px;
+}
+
+.middle6{
+    margin-top: 15px;}
+p{
+    font-size: 14px;
+    font-weight: 500;
+    margin-top: 15px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+p .card-text{
+    color: #388e3c;
+    padding-top: 8px;
+}
+.company p{
+    opacity: .6;
+    padding-top: 7px;
+}
+
+.footer ul li{
+    list-style-type: none !important;
+    
+}
